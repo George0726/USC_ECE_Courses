@@ -1,5 +1,6 @@
 # USC_ECE_courses
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />(https://www.linkedin.com/in/qirui-sun-2a144614a/)
 Personal solutions to the courses in USC
 
