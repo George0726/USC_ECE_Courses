@@ -1,6 +1,6 @@
 # USC_ECE_courses
 
-An ECE master student in USC. Here is some courses personal solutions to the courses
+Personal solutions to the courses in USC
 
 ## EE569 Digital image processing
 
