@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qirui-sun-2a144614a/)
 
 
-Personal solutions to the courses in USC
+Personal solutions to Selected courses in USC
 
 ## EE569 Digital image processing
 
