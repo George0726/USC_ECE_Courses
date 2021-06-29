@@ -1,7 +1,7 @@
 # USC_ECE_courses
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qirui-sun-2a144614a/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://gist.github.com/George0726)
+[![GitHub](https://i.stack.imgur.com/tskMh.png)](https://gist.github.com/George0726)
 
 Personal solutions to Selected courses in USC
 
