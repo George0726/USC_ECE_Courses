@@ -17,4 +17,4 @@ A python **jupyter notebook** versions of basic machine learning problems and an
 
 ## EE546 Mathematics of high dimensional data
 
-python and Matlab version of some basic mathematics algorithms with mathematical prove
+python and Matlab version of some basic mathematics algorithms with mathematical proof
